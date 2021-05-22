@@ -130,7 +130,7 @@ const Homes = () => {
         
    
 	    <div className="section cl">
-		    <div className="container containerh">
+		    <div className="container containerh" style={{backgroundColor: "#eea412", color: "white"}}>
 			    < div className="row text-left stat-wrap">
                     <div className="col-md-4 col-sm-4 col-xs-12">
 					<span data-scroll className="global-radius icon_wrap effect-1 alignleft"><i className="flaticon-study"></i></span>
